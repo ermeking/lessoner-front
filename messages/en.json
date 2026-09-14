@@ -1,0 +1,19 @@
+{
+  "common": {
+    "tagline": "A platform for learning programming",
+    "footerCopyright": "© {year}"
+  },
+  "nav": {
+    "home": "Home",
+    "login": "Log in",
+    "toggleTheme": "Toggle theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "changeLanguage": "Change language"
+  },
+  "seo": {
+    "defaultTitle": "A textbook for learning programming",
+    "defaultDescription": "An accessible, text-based platform for learning programming with practice and automated code checks."
+  }
+}
